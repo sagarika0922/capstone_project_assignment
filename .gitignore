@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+analytics/figures/
+analytics/*.joblib
+data_pipeline/books.db
+data_pipeline/books_cleaned.csv
+support_assistant/chroma_db/
+.ipynb_checkpoints/
